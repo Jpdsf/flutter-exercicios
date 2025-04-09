@@ -1,16 +1,31 @@
-# flutter_imitacion
+# 🍔 Clone iFood – App Flutter
 
-A new Flutter project.
+Um clone visual do aplicativo iFood, desenvolvido com Flutter, focado em praticar a criação de interfaces responsivas, navegação entre telas e organização de código em múltiplos arquivos.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Tela inicial com listagem de restaurantes e categorias
+- Tela de pedidos com histórico e botões de ação
+- Tela de perfil com opções e navegação
+- Navegação com BottomNavigationBar
+- Separação de componentes e estrutura modular
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias utilizadas
+
+- **Flutter 3.x**
+- **Dart**
+- Material Design
+- Organização por pastas: `screens/`, `components/`, `models/`, `theme/`
+
+---
+
+## 📦 Como rodar o projeto
+
+1. **Clone o repositório**:
+
+```bash
+git clone https://github.com/seu-usuario/flutter-exercicios.git
