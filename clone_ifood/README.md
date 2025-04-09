@@ -25,7 +25,56 @@ Um clone visual do aplicativo iFood, desenvolvido com Flutter, focado em pratica
 
 ## 📦 Como rodar o projeto
 
-1. **Clone o repositório**:
+1. **Clone o repositório:**
 
 ```bash
 git clone https://github.com/seu-usuario/flutter-exercicios.git
+```
+
+2. **Acesse o diretório do app:**
+
+```bash
+cd flutter-exercicios/clone_ifood
+```
+
+3. **Instale as dependências do Flutter:**
+
+```bash
+flutter pub get
+```
+
+4. **Execute o app em um emulador ou dispositivo conectado:**
+
+```bash
+flutter run
+```
+
+> Certifique-se de estar com um emulador Android/iOS ou um dispositivo físico conectado via USB.
+
+5. (Opcional) **Se for rodar em Web/Desktop**, habilite o suporte com:
+
+```bash
+flutter config --enable-web
+flutter config --enable-windows-desktop
+flutter run -d chrome        # ou -d windows / -d macos / -d linux
+```
+
+---
+
+## 📸 Preview (opcional)
+
+Adicione prints do app aqui:
+
+```
+/assets/screens/home.png
+/assets/screens/pedidos.png
+/assets/screens/perfil.png
+```
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais e não possui afiliação com o iFood.  
+Licença: MIT
+
