@@ -63,8 +63,6 @@ flutter run -d chrome        # ou -d windows / -d macos / -d linux
 
 ## 📸 Preview (opcional)
 
-Adicione prints do app aqui:
-
 ```
 /assets/screens/home.png
 /assets/screens/pedidos.png
